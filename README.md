@@ -5,7 +5,7 @@
 ## Experiments
 
 ### Throughput
-In practice, only YCSB is leveraged for this experiment. See [here]([https://github.com/brianfrankcooper/YCSB](https://github.com/brianfrankcooper/YCSB/tree/master/zookeeper)) for install and test.
+In practice, only YCSB is leveraged for this experiment. See [here](https://github.com/brianfrankcooper/YCSB](https://github.com/brianfrankcooper/YCSB/tree/master/zookeeper)) for install and test.
 
 
 ### Latency

@@ -15,8 +15,7 @@ With the help of zk-smoke and YCSB, we carry out this experiment.
 
 - 1st sub-experiment 
 - 2nd sub-experiment 
-  > A blockquote would look great below the second list item.
-- ** ./bin/ycsb run zookeeper -threads 10 -P workloads/workloadb -p zookeeper.connectString=127.0.0.1:2181/benchmark **
+  > ** ./bin/ycsb run zookeeper -threads 10 -P workloads/workloadb -p zookeeper.connectString=127.0.0.1:2181/benchmark **
 - 3rd sub-experiment 
 
 

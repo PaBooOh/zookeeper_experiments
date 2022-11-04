@@ -21,5 +21,14 @@ With the help of zk-smoke and YCSB, we carry out this experiment.
   > ./bin/ycsb run zookeeper -threads 10 -P workloads/workload_mclients -p zookeeper.connectString="node112:2181,node113:2181,node114:2181"
 
 
+## Scripts
+- zk-latencies.py
+  > we modified this script to support the 1st sub-experiment for latency experiment
+- zk.sh
+  > it is used for opening/closing all cloud nodes at a time
+- xsync
+  > it is used to synchronize files (modified/created) on all cloud nodes
+
+
 
 

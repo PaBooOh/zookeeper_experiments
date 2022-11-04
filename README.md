@@ -5,7 +5,8 @@
 ## Experiments
 
 ### Throughput
-In practice, only YCSB is leveraged for this experiment.
+In practice, only YCSB is leveraged for this experiment. See [here](https://github.com/brianfrankcooper/YCSB) for install and test.
+
 
 ### Latency
 With the help of zk-smoke and YCSB, we carry out this experiment.
